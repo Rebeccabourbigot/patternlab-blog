@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="35px" height="61px" viewBox="0 0 35 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="35px" height="44px" viewBox="0 0 35 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
     <title>menu/back</title>
     <desc>Created with Sketch.</desc>
@@ -8,7 +8,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="menu/back">
-            <g id="couleur-icone/gris" transform="translate(4.214688, 3.041916)">
+            <g id="couleur-icone/gris" transform="translate(4.214688, -0.958084)">
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
