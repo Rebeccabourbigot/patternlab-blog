@@ -24,6 +24,7 @@ function InitThis() {
     });
 }
 
+
 function Draw(x, y, isDown) {
     if (isDown) {
         ctx.beginPath();
@@ -43,5 +44,3 @@ function clearArea() {
     ctx.setTransform(1, 0, 0, 1, 0, 0);
     ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 }
-
-function afficher()

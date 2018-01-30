@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1517270793922,
+  "timestamp": 1517332935176,
   "graph": {
     "options": {
       "directed": true,
@@ -48,6 +48,14 @@
           "compileState": "clean",
           "lineagePath": "../../patterns/02-organisms-sections-block-square-soucis/02-organisms-sections-block-square-soucis.rendered.html",
           "lineagePattern": "organisms-block-square-soucis"
+        }
+      },
+      {
+        "v": "00-atoms/buttons/button-section.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/01-molecules-04-images-head-article/01-molecules-04-images-head-article.rendered.html",
+          "lineagePattern": "molecules-head-article"
         }
       },
       {
@@ -320,6 +328,12 @@
           "compileState": "clean",
           "lineagePath": "../../patterns/02-organisms-sections-block-square-soucis/02-organisms-sections-block-square-soucis.rendered.html",
           "lineagePattern": "organisms-block-square-soucis"
+        }
+      },
+      {
+        "v": "01-molecules/04-images/head-article.mustache",
+        "value": {
+          "compileState": "clean"
         }
       },
       {
@@ -657,6 +671,11 @@
         "value": {}
       },
       {
+        "v": "00-atoms/buttons/button-section.mustache",
+        "w": "00-atoms/images/01-iconsglobal/icons-chair.mustache",
+        "value": {}
+      },
+      {
         "v": "01-molecules/03-icons-square/01-square-pb.mustache",
         "w": "00-atoms/images/01-iconsglobal/icons-aubergine.mustache",
         "value": {}
@@ -669,6 +688,16 @@
       {
         "v": "01-molecules/03-icons-square/03-square-soucis.mustache",
         "w": "00-atoms/images/01-iconsglobal/icons-slip.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-molecules/04-images/head-article.mustache",
+        "w": "00-atoms/buttons/button-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-molecules/04-images/head-article.mustache",
+        "w": "00-atoms/text/hashtag.mustache",
         "value": {}
       },
       {
